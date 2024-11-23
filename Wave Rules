@@ -1,6 +1,4 @@
-# Creating the text file with the provided content
 
-elliott_wave_content = """
 Comprehensive Elliott Wave Rules
 
 General Rules for All Waves
@@ -64,7 +62,7 @@ Subdivide as 5-3-5.
 Zigzags typically indicate sharp corrections.
 
 Triangles:
-Subdivide into five waves labeled A-B-C-D-E, which collectively move sideways.
+Subdivide into five waves labelled A-B-C-D-E, which collectively move sideways.
 Triangles appear in Wave 4, B, or X positions.
 
 Double and Triple Three:
@@ -90,11 +88,3 @@ Waves often exhibit Fibonacci proportions in price and time:
 Wave 2 retraces 61.8%, 50%, or 38.2% of Wave 1.
 Wave 4 retraces 38.2% or 23.6% of Wave 3.
 Wave 5 often equals Wave 1 or relates to Wave 3 by a Fibonacci ratio.
-"""
-
-# Saving the content to a text file
-file_path = "/mnt/data/elliott_wave_rules.txt"
-with open(file_path, "w") as file:
-    file.write(elliott_wave_content)
-
-file_path
