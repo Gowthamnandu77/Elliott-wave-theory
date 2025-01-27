@@ -10,6 +10,7 @@ Corrective waves are a key aspect of **Elliott Wave Theory**, which is used to a
 4. **Expanded Flat ABC** 🔴
 5. **Double Zigzag** 🔁
 6. **Triple Zigzag** 🔂
+7. **Triangle** 🔺
 
 ---
 
@@ -49,3 +50,16 @@ Corrective waves are a key aspect of **Elliott Wave Theory**, which is used to a
 
 ### 6. **Triple Zigzag**:
 ![image](https://github.com/user-attachments/assets/afd911d0-df72-4c45-9429-f9d36cd7e290)
+
+---
+
+### 7. **Triangle**:
+![image](https://github.com/user-attachments/assets/53fc8441-8c30-4bcb-862f-85f5d97049ae)
+![image](https://github.com/user-attachments/assets/2644b29e-a237-4dbf-b22c-540730a23102)
+![image](https://github.com/user-attachments/assets/ebc6f71b-d2d8-4e57-be99-d3f57de12827)
+
+---
+
+### *Leading and Ending Triangles*:
+![image](https://github.com/user-attachments/assets/2559831b-2334-4065-a959-2d6b8d7dae81)
+![image](https://github.com/user-attachments/assets/42cb71ef-94c9-460f-a044-f4d9eee844a8)
