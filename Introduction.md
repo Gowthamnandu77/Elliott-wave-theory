@@ -7,7 +7,7 @@ Developed by **Ralph Nelson Elliott** in the 1930s, **Elliott Wave Theory** prov
 
 #### 🛠 **What’s Inside This Repository?**
 - **Wave Identification Algorithms**: Automated tools for detecting impulse and corrective waves.
-- **Elliott Wave Structure Analysis**: Scripts and strategies to identify key wave patterns in real-time.
+- **Elliott Wave Structure Analysis**: Scripts and strategies to identify key wave patterns in real time.
 - **Practical Use Cases**: Examples showing how to apply Elliott Wave Theory in different financial markets such as **stocks**, **forex**, and **cryptocurrencies**.
 - **Visualization Tools**: Stunning visualizations to plot and understand wave structures directly on market charts.
 
