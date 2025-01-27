@@ -1,6 +1,6 @@
 # Elliott Wave Theory: An End-to-End Guide
 
-Welcome to the **Elliott Wave Theory** repository! This guide provides an in-depth exploration of the Elliott Wave Theory, a popular tool for predicting market behavior. In this repository, you'll find resources, examples, and implementations to help you understand and apply Elliott Wave principles to financial markets.
+Welcome to the **Elliott Wave Theory** repository! This guide explores the Elliott Wave Theory, a popular tool for predicting market behaviour. In this repository, you'll find resources, examples, and implementations to help you understand and apply Elliott Wave principles to financial markets.
 
 ---
 
@@ -14,10 +14,6 @@ Welcome to the **Elliott Wave Theory** repository! This guide provides an in-dep
 6. [Wave Patterns and Market Phases](#wave-patterns-and-market-phases)
 7. [Practical Applications](#practical-applications)
 8. [Elliott Wave Trading Strategies](#elliott-wave-trading-strategies)
-9. [Examples & Code Implementation](#examples--code-implementation)
-10. [Conclusion](#conclusion)
-11. [License](#license)
-
 ---
 
 ## 💡 Introduction
