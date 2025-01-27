@@ -89,7 +89,7 @@ Foundation for Further Waves: The strength and structure of Wave 1 lay the found
 ![Screenshot 2025-01-27 153107](https://github.com/user-attachments/assets/26c504b7-d436-47b6-a48e-005f580f5a48)
 
 
-
+---
 🌊 Wave 2: The Panic Phase 😱
 Occurs after Wave 1: Wave 2 follows the initial surge of Wave 1, often causing a sharp pullback or correction. 🔄
 
@@ -100,6 +100,7 @@ Institutional Investors ("Smart Money") Capitalize: While retail investors are r
 Retail Investors Get Trapped: Many retail traders, hopeful for a further price decline, get trapped in the pullback, unaware that the bigger move is about to unfold. 🎯
 
 ![Screenshot 2025-01-27 153641](https://github.com/user-attachments/assets/b8c93445-5e25-484d-bda9-55c9aab83923)
+---
 
 🌊 Wave 3: The Powerhouse of the Trend 💥
 Strongest and Most Powerful Wave: Wave 3 is typically the longest and most impulsive wave in the Elliott Wave structure, representing the stage where the market trend gains serious momentum. 🚀
@@ -120,6 +121,7 @@ Wave 3 Never the Shortest: According to Elliott’s rules, Wave 3 can never be t
 
 
 Here’s your Wave 4 description with enhanced visuals and structure to make it more captivating:
+---
 
 🌊 Wave 4: The Pause Before the Final Push ⏸️
 Corrective Wave: Wave 4 is a corrective wave that moves against the prevailing trend, following the strong momentum of Wave 3. It signifies a period of consolidation or retracement. 🔄
@@ -138,6 +140,7 @@ Psychological Impact: Wave 4 can be emotionally challenging for traders, causing
 
 ![XAUUSD_2025-01-27_15-41-00 (1)](https://github.com/user-attachments/assets/c835f0b3-7934-41de-8975-fb25dc472166)
 
+---
 
 🌊 Wave 5: The Final Push Before the Reversal 🚀
 Final Impulsive Wave: Wave 5 is the last wave in the impulse wave sequence, representing the final push in the direction of the main trend. It typically signals the last stage before a significant reversal or correction. 🔚
@@ -154,11 +157,14 @@ Precursor to Reversal: Wave 5 typically marks the end of the current trend, ofte
 
 ![XAUUSD_2025-01-27_15-42-21 (1)](https://github.com/user-attachments/assets/26103bd3-cb6a-42d4-a559-57c1662e6377)
 
+---
+---
 
 🌊 Corrective Wave ABC: The Market’s Retracement 🔄
 Corrective Waves (ABC): These are counter-trend movements that occur after an impulsive wave cycle. They typically move against the dominant trend, offering a retracement or correction of the previous impulsive waves. 🔻
 
 
+---
 
 🌊 Wave A: The First Leg of the Correction ⚖️
 Initiates the Correction: Wave A marks the beginning of the corrective phase, typically starting with a sharp move in the opposite direction of the prior impulsive wave. 🔄
@@ -169,6 +175,7 @@ Volume Decreases: As this wave progresses, trading volume tends to decrease, as 
 
 ![XAUUSD_2025-01-27_15-46-23 (1)](https://github.com/user-attachments/assets/2b3071c0-f708-4ba1-9e52-5ee949fdb3d8)
 
+---
 
 🌊 Wave B: The Counter-Trend Rally ⚡
 Retracement of Wave A: Wave B is a corrective wave that moves in the direction of the previous trend, retracing a portion of Wave A. 🔁
@@ -180,6 +187,7 @@ Volume Picks Up: The market may see increased volume during Wave B, especially i
 
 ![XAUUSD_2025-01-27_15-47-27 (1)](https://github.com/user-attachments/assets/19a4fad1-fa88-44a8-97b5-3560af8527b8)
 
+---
 
 🌊 Wave C: The Final Leg of the Correction 🔚
 Completion of the Correction: Wave C marks the final leg of the corrective pattern, typically extending further than Wave A. 🔁
