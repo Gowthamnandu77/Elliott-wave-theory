@@ -55,9 +55,9 @@ The repository contains multiple scripts that work together to identify and anal
 
 
 
-Motive/ Impulsive Wave:
 ![image](https://github.com/user-attachments/assets/1718cf35-069a-40bf-b66b-0aa604a1d30d)
 
+Motive/ Impulsive Wave:
 Motive waves, also referred to as impulse waves, are the main driving forces behind market trends in Elliott Wave Theory. These waves are composed of five sub-waves: 1, 2, 3, 4, and 5, all of which move in the direction of the larger prevailing trend.
 ![image](https://github.com/user-attachments/assets/b3c39daf-8cdb-4043-b79a-97f51309c432)
 ![image](https://github.com/user-attachments/assets/8f796f42-fc2b-4d89-ba49-6d7f0474e0c9)
