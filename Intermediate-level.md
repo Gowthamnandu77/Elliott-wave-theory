@@ -60,6 +60,6 @@ Corrective waves are a key aspect of **Elliott Wave Theory**, which is used to a
 
 ---
 
-### *Leading and Ending Triangles*:
+### *Leading and Ending Diagnols*:
 ![image](https://github.com/user-attachments/assets/2559831b-2334-4065-a959-2d6b8d7dae81)
 ![image](https://github.com/user-attachments/assets/42cb71ef-94c9-460f-a044-f4d9eee844a8)
