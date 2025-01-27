@@ -137,6 +137,30 @@ Precursor to Reversal: Wave 5 typically marks the end of the current trend, and 
 ![XAUUSD_2025-01-27_15-42-21 (1)](https://github.com/user-attachments/assets/26103bd3-cb6a-42d4-a559-57c1662e6377)
 
 
+Corrective Wave ABC:
+Corrective waves (ABC) are counter-trend movements that occur after an impulsive wave cycle. They typically move against the dominant trend, providing a retracement or correction of the previous impulse waves.
+
+Wave A (The First Leg of the Correction):
+Initiates the Correction: Wave A marks the beginning of the corrective phase. It typically starts with a sharp move in the opposite direction of the prior impulsive wave.
+Panic and Uncertainty: This wave often creates confusion and uncertainty in the market as participants start to doubt the strength of the previous trend.
+Volume Decreases: As this wave progresses, trading volume tends to decrease because it’s a corrective phase, and many traders are waiting to see if the trend will continue or reverse.
+
+![XAUUSD_2025-01-27_15-46-23 (1)](https://github.com/user-attachments/assets/2b3071c0-f708-4ba1-9e52-5ee949fdb3d8)
 
 
+Wave B (The Counter-Trend Rally):
+Retracement of Wave A: Wave B is a corrective wave that moves in the direction of the previous trend, retracing a portion of Wave A.
+False Hope for Trend Continuation: This wave often creates a false sense of hope or confidence in the original trend, leading many traders to re-enter the market, expecting the continuation of the original trend.
+Volume Picks Up: The market may see increased volume during Wave B, especially if it retraces a significant portion of Wave A, but this rally is typically short-lived.
+
+![XAUUSD_2025-01-27_15-47-27 (1)](https://github.com/user-attachments/assets/19a4fad1-fa88-44a8-97b5-3560af8527b8)
+
+
+
+Wave C (The Final Leg of the Correction):
+Completion of the Correction: Wave C marks the final leg of the corrective pattern, typically extending further than Wave A.
+Capitulation and Panic: During Wave C, market sentiment often reaches its most extreme, with widespread panic or capitulation. Traders who were caught in the correction may liquidate their positions, pushing the market to new extremes.
+Strong Decline or Rally: Depending on the direction of the trend, Wave C can be a strong downward or upward move, typically larger than Wave A in magnitude.
+
+![XAUUSD_2025-01-27_15-48-35 (1)](https://github.com/user-attachments/assets/ed678c47-503c-481a-94c4-4e1717c3029b)
 
